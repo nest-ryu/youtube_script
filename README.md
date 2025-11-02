@@ -70,7 +70,7 @@ pip install -r requirements.txt
 
 ```bash
 
-streamlit run youtube\_script\_auto\_streamlit.py
+streamlit run youtube_script_auto.py
 
 ```
 
@@ -100,7 +100,7 @@ streamlit run youtube\_script\_auto\_streamlit.py
 
 .
 
-&nbsp;├─ youtube\_script\_auto\_streamlit.py
+&nbsp;├─ youtube_script_auto.py
 
 &nbsp;├─ requirements.txt
 
