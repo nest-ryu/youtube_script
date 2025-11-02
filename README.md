@@ -92,32 +92,6 @@ streamlit run youtube_script_auto.py
 
 
 
-\### 🗂️ 생성 파일 구조
-
-
-
-```
-
-.
-
-&nbsp;├─ youtube_script_auto.py
-
-&nbsp;├─ requirements.txt
-
-&nbsp;├─ How\_to\_Talk\_about\_Weather\_script.txt
-
-&nbsp;├─ How\_to\_Talk\_about\_Weather\_translated.txt
-
-&nbsp;└─ audio.mp3
-
-```
-
-
-
----
-
-
-
 \### 🧠 Whisper 모델 참고
 
 
@@ -149,6 +123,7 @@ streamlit run youtube_script_auto.py
 \- 🎓 스크립트 기반 학습지 자동 PDF 생성 기능
 
 \- 🔈 Whisper 모델 선택 옵션화 (`tiny`~`large`)
+
 
 
 
